@@ -1,0 +1,95 @@
+{
+    "html_attributions" =     (
+    );
+    results =     (
+                {
+            geometry =             {
+                location =                 {
+                    lat = "36.1997652";
+                    lng = "-121.5528853";
+                };
+                viewport =                 {
+                    northeast =                     {
+                        lat = "36.4042174";
+                        lng = "-121.1972681";
+                    };
+                    southwest =                     {
+                        lat = "35.7942604";
+                        lng = "-121.8490199";
+                    };
+                };
+            };
+            icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+            id = 0eb7e9b48aafcf856e85a14cb221c5efd0d6dd1f;
+            name = "Los Padres National Forest";
+            "place_id" = ChIJHx4OZzeHkoARPYCoxQpgqBQ;
+            reference = "CpQBhQAAALPtmcB8__6V9k23KU7rkiPZzeyFy1zuSoJySlyhS-WP1SOsxuVvyryg0LwMZOglGtKtfia_loCm1584zUdPsaRY_C0QmhbBmEAOISvK9R9sT7w4O-Z7OEnxgzU6wzvgvqI-MEu7tr8hZIj5-U4rAD2fljQ0ivHbB8WhXGYLjJL0-IgWpgKgU9By2FKaYD95WhIQcng7Fhe3vlWC5-EXZUWIYhoU9iwp8kYgp35wrauUFmUiHX9d5Cw";
+            scope = GOOGLE;
+            types =             (
+                "natural_feature",
+                park,
+                establishment
+            );
+            vicinity = Goleta;
+        },
+                {
+            geometry =             {
+                location =                 {
+                    lat = "34.5972405";
+                    lng = "-119.5107708";
+                };
+                viewport =                 {
+                    northeast =                     {
+                        lat = "35.4850299";
+                        lng = "-118.7426687";
+                    };
+                    southwest =                     {
+                        lat = "34.3916462";
+                        lng = "-120.8025";
+                    };
+                };
+            };
+            icon = "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+            id = 008e10bac504223b4f84f84949ed69d548ac6bbb;
+            name = "Los Padres National Forest";
+            "place_id" = ChIJX3PwOP2E7IARbB6pHPqIX0Q;
+            reference = "CpQBhQAAAPU-ygdXh-J_9wTAbIv6fvx8LCz9dVp5K1Ax3dyYI5EgDg_qgFkiB4fB-r6ucNbJrCkajnpvHwUawGR1YLYo1Og2M6b1MSs3BtX4uJYuiZJQq8rMI-DP2H2hXi5duhwGkrk5szcetL71N3q0e-FZOjdTMOVYiCQ2Z2bM1zHC41qJ0zVP-Y2WP3_kUfgyUoF_6RIQdQgaoT0jHO2nRMpeIte4uRoU1zr_cc4YMc69aQi0eFSIbIJcu2s";
+            scope = GOOGLE;
+            types =             (
+                "natural_feature",
+                park,
+                establishment
+            );
+            vicinity = Goleta;
+        },
+                {
+            geometry =             {
+                location =                 {
+                    lat = "38.8375215";
+                    lng = "-120.8958242";
+                };
+                viewport =                 {
+                    northeast =                     {
+                        lat = "42.0095169";
+                        lng = "-115.6483569";
+                    };
+                    southwest =                     {
+                        lat = "35.7867619";
+                        lng = "-124.482003";
+                    };
+                };
+            };
+            icon = "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png";
+            id = 3f9c387a0e64e5d15fbf498f81f001860427d81e;
+            name = "Northern California";
+            "place_id" = ChIJhfaU3zKPmYARQmFhYdVHSAo;
+            reference = "CoQBfgAAAFYKCrVYXmNlU0t-m4te1WQKS-iKg8t6SLv1BMUXSH24apYfe-SBpT7UpLxaahAhssORDCPcM2tyNnNQu-jw7SUk7op4cUS3ONZXE4gSAv48Ii-t25jORK_S6GKbRH7YCVmXXiszJgpAjdsJUlcrzBuv6hA_-EvbGKj3h9313lunEhDpY3JCWA67rqf--dPjgXEPGhSGG7UoN6I-K48yZ3oUD2jfiuTzBg";
+            scope = GOOGLE;
+            types =             (
+                "colloquial_area",
+                political
+            );
+        }
+    );
+    status = OK;
+}

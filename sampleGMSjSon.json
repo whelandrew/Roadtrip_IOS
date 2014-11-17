@@ -1,0 +1,503 @@
+{
+    routes =     (
+                {
+            bounds =             {
+                northeast =                 {
+                    lat = "40.4167158";
+                    lng = "-3.6989189";
+                };
+                southwest =                 {
+                    lat = "39.8628115";
+                    lng = "-4.029420200000001";
+                };
+            };
+            copyrights = "Map data \U00a92014 Google, basado en BCN IGN Espa\U00f1a";
+            legs =             (
+                                {
+                    distance =                     {
+                        text = "73.3 km";
+                        value = 73275;
+                    };
+                    duration =                     {
+                        text = "52 mins";
+                        value = 3145;
+                    };
+                    "end_address" = "Madrid, Madrid, Spain";
+                    "end_location" =                     {
+                        lat = "40.4167158";
+                        lng = "-3.7037799";
+                    };
+                    "start_address" = "Toledo, Toledo, Spain";
+                    "start_location" =                     {
+                        lat = "39.8628115";
+                        lng = "-4.0273884";
+                    };
+                    steps =                     (
+                                                {
+                            distance =                             {
+                                text = "0.6 km";
+                                value = 614;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 83;
+                            };
+                            "end_location" =                             {
+                                lat = "39.8680977";
+                                lng = "-4.029395399999999";
+                            };
+                            "html_instructions" = "Head <b>north</b> on <b>Av. Reconquista</b> toward <b>Calle de la Diputaci\U00f3n</b>";
+                            polyline =                             {
+                                points = "quhrFdrqWUHULC?k@Rw@Vg@LeD~@aD~@{@Tk@Ns@VODsA`@u@TaATyA`@UHOBG@E?WC";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8628115";
+                                lng = "-4.0273884";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.2 km";
+                                value = 176;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 20;
+                            };
+                            "end_location" =                             {
+                                lat = "39.8675297";
+                                lng = "-4.0275807";
+                            };
+                            "html_instructions" = "At the roundabout, take the <b>1st</b> exit onto <b>Calle Duque de Lerma</b>";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "svirFv~qW?EAEACAEACACCCAC\\uAJa@lAuDHW";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8680977";
+                                lng = "-4.029395399999999";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.6 km";
+                                value = 599;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 75;
+                            };
+                            "end_location" =                             {
+                                lat = "39.8688634";
+                                lng = "-4.0215206";
+                            };
+                            "html_instructions" = "At the roundabout, take the <b>3rd</b> exit onto <b>Av. Gl Villalba</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "asirFjsqW@?@??A@?@A@A@?DI@C@C@A@C@C@CDS?A@O?G@GAG?G?CAA?AAAAA?CAAA?AAAAAAA?AAA?A?AAA?A?A?C@A?A?A@A@A??@A@CBQMIGEECEIQM_@K_@]gAWw@@A?A@A?A@A?A?A?A?A?A?A?C?A?A?A?AAA?AAA?AAA?AAAA??AA??AA?A??AA?A?A?A?QeAMi@_@uAK[E[COCw@CkBEsCCaC?}@AQ";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8675297";
+                                lng = "-4.0275807";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.2 km";
+                                value = 182;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 21;
+                            };
+                            "end_location" =                             {
+                                lat = "39.8700144";
+                                lng = "-4.0206788";
+                            };
+                            "html_instructions" = "At the roundabout, take the <b>3rd</b> exit";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "k{irFnmpW@??A@?@A@A@??A@A@A?A@A?A@A?C?A@A?C?C?C?A?CAC?AAC?AAAACAAA??AAAAAC?AAA?A?A?A?AAA@A?A?A?}@m@{@a@o@YGACAKBE@A@A@ED";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8688634";
+                                lng = "-4.0215206";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "17 m";
+                                value = 17;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 2;
+                            };
+                            "end_location" =                             {
+                                lat = "39.8700541";
+                                lng = "-4.0208647";
+                            };
+                            "html_instructions" = "Turn <b>left</b> onto <b>Ctra. Mocej\U00f3n</b>";
+                            maneuver = "turn-left";
+                            polyline =                             {
+                                points = "qbjrFfhpWCFAHAF?@?F";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8700144";
+                                lng = "-4.0206788";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.4 km";
+                                value = 412;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 45;
+                            };
+                            "end_location" =                             {
+                                lat = "39.8737251";
+                                lng = "-4.0207656";
+                            };
+                            "html_instructions" = "Slight <b>right</b> onto <b>Ctra. Madrid</b>";
+                            maneuver = "turn-slight-right";
+                            polyline =                             {
+                                points = "ybjrFjipWEHCBA@CBE@C@I?M?_@Cq@CsBCK?s@As@CcCE{@?{AEm@AGAOCCAMA";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8700541";
+                                lng = "-4.0208647";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.9 km";
+                                value = 903;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 52;
+                            };
+                            "end_location" =                             {
+                                lat = "39.88158490000001";
+                                lng = "-4.0195452";
+                            };
+                            "html_instructions" = "At the roundabout, take the <b>2nd</b> exit onto the <b>A-42</b> ramp to <b>Madrid</b>";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "yyjrFxhpW?E?CAA?CACACAAACCAAAAACAAACAA?C?A?A?C?A?A@A?C@A@C@A@A@ABABA@ABABm@NGBoDGUCyAEmCEm@C}BK_AK{AOo@Mm@QYKWIAAsAk@YMOGQEk@Kk@GSA{B?W@WCgAUQGICC?K@";
+                            };
+                            "start_location" =                             {
+                                lat = "39.8737251";
+                                lng = "-4.0207656";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "64.4 km";
+                                value = 64366;
+                            };
+                            duration =                             {
+                                text = "38 mins";
+                                value = 2273;
+                            };
+                            "end_location" =                             {
+                                lat = "40.3819556";
+                                lng = "-3.7185692";
+                            };
+                            "html_instructions" = "Merge onto <b>A-42</b>";
+                            maneuver = merge;
+                            polyline =                             {
+                                points = "{jlrFdapWgAa@s@W{@YgBW_@Eq@AgBBqBHaBDoBBgC@}FCkAGiBQi@Gi@GaB]{FsA{Bi@s@QkFoAuAWGCwB]uEq@gDq@gBg@{Bg@mCs@mFkAkEgAaCm@IC_@K}@WmAe@iBu@_E}AyD}AiEeBaBw@gAm@_Ak@{AaAcDiBiAg@a@MmCaAoJoDuGeCgE{A_A_@mCaAiEcBcEyAuEgBeAa@_Aa@wAe@GEwCgAcE}A{By@mHoCeC}@c@Q_C}@qBw@{EeB}@YaAUmBa@}KeBsGiAwDu@qDaA_FgBs@Uk@OwAe@c@Oa@K_@KICqAc@kBg@aCc@e@GaCa@iBc@s@SyAe@WMYOm@Wi@Y}@g@w@e@eAs@{DmCgD}B_Ak@eEwBeAs@s@i@kAy@}BaB}AgAy@m@y@i@KIeBsAuAw@YQe@UKGUKaAa@yC_Aa@OGAwBm@kAa@cAW{@[mAc@]Oa@Se@YeAq@e@[e@]{A{@wGgEgBkAyAeA{GwE[UA?YS}@u@cB}AcBuAs@g@o@a@[S[SKGa@QiAi@UMqCuAqAi@yB{A{ByA{FyEk@a@iFoD_Ak@eBcAeJ{FaCyAgC}A_Aq@gGkEwA{@{AcA{DkCqFoDIGgAs@oFsDeHwEsHwEiHqEwFoDOKCCKGoGiEoBqA[S_CyAoCmBcC_BqBsAyDiCaHoEeBiAmBmAaAk@qHqEwDqCu@i@e@Y_EaCsDqBiCkAkFuBKCaDaA{A_@aBa@}Cm@WGyDc@{AOSEOCc@EiESuBG_BCmC@sA@uEPeE`@iE^aAFO@}BJmERC?kEEaE[kAWkBc@oBo@{@[a@Qa@S_Ag@[Qa@Uc@Y_@YOIc@]o@k@KI[Ym@m@g@m@Y[OQc@i@m@y@e@q@c@q@i@_Aa@}@c@}@{@qBa@eAEK[{@W{@_@gAWy@Wy@Wy@Qo@Y_AOi@So@AGYcAg@_BqAmE_@uAA?sAyEeBcGkBeGk@gBm@kBUu@_@oAo@oBGSu@uBu@mBq@eBSg@mAiCMW{@qBs@{AaD{F{DeGqC{DeB_CqCeDqB}B[]q@q@o@o@{ByB{A{AQM{AmAwEyDeEcDaCqBeAy@]WsDmCIGsAiAaAw@oB_B_F{DiA}@yAiAwBcBCEUOUSsCyB_EaDaDgC_@YOMSScAs@OM{@q@uAgAkByAkAaAqB}AqB_Bq@g@]YqDyCGG_EaDgDmCg@_@IGo@i@qB}A{CeCg@a@{CcCg@a@c@]}CeCcEgDmCuB}@q@UQSQEC[WmAaA]UcEgDiKqIMI?AMKWSuHiGsN{MeCgCcRyQwG{GwBeCeAgA_@a@wVoXQYCGy@wBk@iBW}@S}@QeAAKCYg@wEcA}Iu@yGE]AGCYkAaKAKiAuJCWGi@WuBIu@_@_DcAqJ{@wHIu@_AgJm@yEEWAK[aCi@wFk@sEQsASmAQo@AMUcAI]e@cBk@cBo@{AiBuD]o@iBeCqB}BcA_A][GGQKgBoAyBoAu@[OGwBgAyAu@mDgBA?IE}@a@wHqD_M_GCA}YcNeFiCoF{C{IyFkD{BYQSOCAQOQK}BuAaEoCgCaBi@[oCeB_BeA]UuCmBwAcAoBaBoAcAQSoBsBSW_@e@kAwAw@gA[e@kBgDWe@a@s@sAuCu@oAw@uAaCsDYc@sCgD_CeCs@o@qCuBoCgBoC_Bm@Wk@Yu@[eC}@gA[sA]kKiCyCw@A?A?QCcG{AsDcA_Dw@{QwEA?i@KwHsBeBe@aE_AwCu@sA]e@OmCq@QEEAeAUsF{AaDgAaBk@sAg@y@[cA[aA]a@OKEICaAYQGk@SqBq@{@YuBu@sAc@sAc@wBy@iC}@a@OuB{@cFwBqGkCkFaBmA_@qBg@uA_@_Eu@yAWy@MUE_AMa@Ii@EaDa@iDq@}A_@yBw@cYcK_GcCIEgBcAaAk@qAo@qAi@}Am@oDqAmBq@u@YmEcBuBw@s@WGCqAe@mCeAgC{@mA]{@UQEmAY{@Sk@QsA_@o@UcC{@sAg@{Ai@}B{@}@a@eD}Ae@Ui@Yc@So@YmGmCaIuC_A]A?yAk@qBs@uJmDuPkGgE}A}EiBmK{DIEA?KEyCiAsDuA}GcCgPgGmBq@iBu@u@Yq@U_Bi@oAe@sAg@qAk@{@_@c@UQKGCQMMIQKg@]wAoAi@i@}@iAu@iAc@s@Yo@wB_Fg@{AsAcEwGeSUs@Uq@So@cBeFqA{D_BoFcBgE[y@Sc@MW_@q@i@u@IKW[CECCY]mAmAgAy@mAo@qBm@{@WuAK}@Cc@Aa@?o@DaBR}AVmBZc@HC@YDgIzAaHjAqCh@}@NcEx@}AVsFx@mB`@}@FgBFu@CcAI]CCAWE{AWs@Ys@Wq@[q@_@_BcAkCsBeF_EaFyDo@i@q@k@y@o@o@e@c@]QMCA?AKIIECEA?SMEESOEEUSq@i@iCoB_BcAaB{@aBq@}Ak@yAa@cCg@QEUCMA[Ea@Em@IuBMcG]sAGy@GkBIwBKa@IcDQc@CcBIoCQmDOaCK{@G_@Ca@C[AeCM{DWaAKm@KiDe@_Dm@_Ci@gDw@gBc@SEAAA?QE[IWGUGA?]IOEUGq@Ou@OqBe@kFoAm@OcCk@}Cq@mDw@w@U}@Sw@OICIAYIyBe@gEeAqD}@{@Yy@Ws@Y{@a@eAk@eAq@iAaA_A}@m@s@iA_Bg@y@c@y@a@y@Ug@IQM_@O_@Y}@Qi@GSk@aCS}@e@eCe@sCc@gCw@qEy@sE{@mEm@aC]eAy@yBa@w@We@OY?AEGAAS]w@kA{AaBeAy@[Q_@UgAk@_@Qm@YgBo@iA]_AYaCw@KCQG_@Mq@Um@Sa@MOEECo@Sc@Ok@Wm@[yAy@wA}@o@]uAy@c@Ys@a@oAw@s@e@wAy@_GkDKGA?WQu@c@oAu@mAs@aAk@]QmAu@aDkB[SYQWM_@Ug@YcAo@a@USKQKA?ACUMgAo@gAq@k@]y@g@WKqCeBgFyCmAw@e@Ye@YQIm@_@GEmAs@A?sAw@m@a@g@WcBgAu@c@_Am@aAk@u@k@MAa@Ui@Ye@Ys@a@]QiAs@gAo@]S[SyBoAuAy@_@Ua@UMIiBiA_BcA_@SA?oEmCkI_F}@i@UWa@Qw@c@k@[oC{AOKuA}@]SECCA[Qg@S_BcAmDsByAu@iCqAwBmAIEcCsAiC}AyA{@CC_@U_@Ue@W{@i@o@c@w@c@{BoAuD{BcDkBwBiAcBm@c@OCAIAk@K_AG]Ay@@yAJaBTw@JuCh@{@LcAPYD_C\\_Df@uB\\aAN]Fi@H_@F[Dg@FeDf@}]tFqAPm@F_@D_@@k@@S?Y?IAo@AWASCUEq@Ok@Q]Oc@Um@[QMYSi@c@QOYSCEOKCCGEKICCCCMIMMg@a@iB}AcCoBgA}@kDuCyM{KwK{IIIWSsFsEcCoBaBuAm@g@eFkEkDsCuCaCcBwAaA{@a@[EEwBgBa@[YW}BiBgAq@q@[YMg@Og@M}ASmAE{@AsBEm@CA?[Ci@Eo@EeCQqAG}@Ia@E{@EgBKcAIgBK}DOkDM_CIcAGu@EG?A?{@G{@GuHi@{AMQAA?C?CAA?SA{COA?YCaAIKAC?OAaE[yCQIAMAE?qBQMA_CQe@Ga@CsJaAoKgAyFg@gQuAoKg@mJi@gJm@uMiA_EEwI{@kAEA?CAC?E?E?CAE?QAsFSC?iDWcDGuGQuDa@eF[_@A]?oEYcBK_AGk@GMAE?i@EMA_FY_FYoIi@mF]cBMs@EqAI]Am@Am@Ew@Iw@IeASKA";
+                            };
+                            "start_location" =                             {
+                                lat = "39.88158490000001";
+                                lng = "-4.0195452";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.4 km";
+                                value = 426;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 22;
+                            };
+                            "end_location" =                             {
+                                lat = "40.3855898";
+                                lng = "-3.7170882";
+                            };
+                            "html_instructions" = "Continue onto <b>Calle Princesa de Austria</b>";
+                            polyline =                             {
+                                points = "gbnuF`huUy@OqAYqAWgAUmAUoAYkA]GAWKSGQIMEYSIG[QSQCACCUU";
+                            };
+                            "start_location" =                             {
+                                lat = "40.3819556";
+                                lng = "-3.7185692";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "2.3 km";
+                                value = 2299;
+                            };
+                            duration =                             {
+                                text = "2 mins";
+                                value = 147;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4007781";
+                                lng = "-3.6992983";
+                            };
+                            "html_instructions" = "Continue onto <b>Paseo de Santa Mar\U00eda de la Cabeza</b>";
+                            polyline =                             {
+                                points = "}xnuFx~tUWYMOAAeDiD]]UYYYk@m@i@k@]c@MQ[]gAgAOOQQe@g@g@i@e@g@_@e@a@k@Ye@_@s@[u@Wq@I]Qe@[aAaBuFmBuGm@cB_@y@m@cA_@m@SWw@}@a@]eC}BOOKICCAAQOQO}@}@wBgBEEAAAACC_@[][MKqAmAQMIIaA}@mD}COOOM_@[MKq@i@a@_@KI{@w@MMIGmBaBMM_BsAQOuBgBUQeBuAUSUUKOIMSc@AAACCCIG";
+                            };
+                            "start_location" =                             {
+                                lat = "40.3855898";
+                                lng = "-3.7170882";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.6 km";
+                                value = 574;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 65;
+                            };
+                            "end_location" =                             {
+                                lat = "40.404831";
+                                lng = "-3.7022881";
+                            };
+                            "html_instructions" = "At <b>Glorieta Santa Mar\U00eda de la Cabeza</b>, take the <b>3rd</b> exit onto <b>Calle de Embajadores</b>";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "{wquFroqU@C@I?E?E?EAEAEAEAEAEECCACCC?AACAE?C?E?E?E@EBEBCBEDCBCD?@?D?F?F@FUp@KRCDEFGFGFg@^[ROJcCjBGD{CtBIFeBpAMJuBvAg@X";
+                            };
+                            "start_location" =                             {
+                                lat = "40.4007781";
+                                lng = "-3.6992983";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.1 km";
+                                value = 123;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 15;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4050745";
+                                lng = "-3.7031043";
+                            };
+                            "html_instructions" = "Turn <b>right</b> onto <b>Glorieta Embajadores</b>";
+                            maneuver = "turn-right";
+                            polyline =                             {
+                                points = "eqruFhbrUCCCCCACACAE?C?C?C@E?CBC@CBA@A@ABA@A@ABAB?@CDADCDADADADCFAD?@AB?B?@AB?@?B?B?D@D?D@D@D@DBDBB@BDBB@FB?@@?@@@??@@?@?@?";
+                            };
+                            "start_location" =                             {
+                                lat = "40.404831";
+                                lng = "-3.7022881";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.5 km";
+                                value = 514;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 43;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4061429";
+                                lng = "-3.7090131";
+                            };
+                            "html_instructions" = "Turn <b>right</b> onto <b>Ronda de Toledo</b>";
+                            maneuver = "turn-right";
+                            polyline =                             {
+                                points = "urruFjgrUIf@MlASbC_@jDSjBg@pEI~@CTYnCE^Iz@Kz@Iz@";
+                            };
+                            "start_location" =                             {
+                                lat = "40.4050745";
+                                lng = "-3.7031043";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.2 km";
+                                value = 203;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 19;
+                            };
+                            "end_location" =                             {
+                                lat = "40.406671";
+                                lng = "-3.7113016";
+                            };
+                            "html_instructions" = "Slight <b>right</b> to stay on <b>Ronda de Toledo</b>";
+                            maneuver = "turn-slight-right";
+                            polyline =                             {
+                                points = "kyruFhlsUGLGLUlAcA~I";
+                            };
+                            "start_location" =                             {
+                                lat = "40.4061429";
+                                lng = "-3.7090131";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.5 km";
+                                value = 503;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 63;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4105382";
+                                lng = "-3.7138951";
+                            };
+                            "html_instructions" = "At <b>Glorieta Puerta de Toledo</b>, take the <b>2nd</b> exit onto <b>Gran V\U00eda de San Francisco</b>";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "u|ruFrzsUEAE?C?E?C@A?E@CBCBEBCBADCDADADAD?FAD?@?B?@@B?@?@?B?@a@\\s@n@EJWNiE`De@XIDQF[Lw@Xq@\\A?g@PgA`@K@MBG?M?G?U?";
+                            };
+                            "start_location" =                             {
+                                lat = "40.406671";
+                                lng = "-3.7113016";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "53 m";
+                                value = 53;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 7;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4108983";
+                                lng = "-3.7139526";
+                            };
+                            "html_instructions" = "At the roundabout, take the <b>3rd</b> exit onto <b>Plaza San Francisco</b>";
+                            maneuver = "roundabout-right";
+                            polyline =                             {
+                                points = "{tsuFzjtU?A?A?A?A?AA??A?AA??AAA?AA?A??AA?A?A?A?A@A??@A??@A??@?@A@?@?@?@?@?@?@k@F";
+                            };
+                            "start_location" =                             {
+                                lat = "40.4105382";
+                                lng = "-3.7138951";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.5 km";
+                                value = 463;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 44;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4150477";
+                                lng = "-3.713534399999999";
+                            };
+                            "html_instructions" = "Continue onto <b>Calle Bail\U00e9n</b>";
+                            polyline =                             {
+                                points = "cwsuFdktUuDMaBK_CKMAGAo@Cm@Cm@GC?O?EASAC?[AYAQAEAcCM";
+                            };
+                            "start_location" =                             {
+                                lat = "40.4108983";
+                                lng = "-3.7139526";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "0.8 km";
+                                value = 789;
+                            };
+                            duration =                             {
+                                text = "2 mins";
+                                value = 135;
+                            };
+                            "end_location" =                             {
+                                lat = "40.416626";
+                                lng = "-3.7044618";
+                            };
+                            "html_instructions" = "Turn <b>right</b> onto <b>Calle Mayor</b>";
+                            maneuver = "turn-right";
+                            polyline =                             {
+                                points = "aqtuFphtUIkBScBIk@AMYgDKcAOeBIm@i@iDUcBMy@]_C?GAK[oD?Ka@mFSkCIqAGg@";
+                            };
+                            "start_location" =                             {
+                                lat = "40.4150477";
+                                lng = "-3.713534399999999";
+                            };
+                            "travel_mode" = DRIVING;
+                        },
+                                                {
+                            distance =                             {
+                                text = "59 m";
+                                value = 59;
+                            };
+                            duration =                             {
+                                text = "1 min";
+                                value = 14;
+                            };
+                            "end_location" =                             {
+                                lat = "40.4167158";
+                                lng = "-3.7037799";
+                            };
+                            "html_instructions" = "Continue onto <b>Plaza Puerta del Sol</b>";
+                            polyline =                             {
+                                points = "}ztuFzorUAQCWG{@A[AE";
+                            };
+                            "start_location" =                             {
+                                lat = "40.416626";
+                                lng = "-3.7044618";
+                            };
+                            "travel_mode" = DRIVING;
+                        }
+                    );
+                    "via_waypoint" =                     (
+                    );
+                }
+            );
+            "overview_polyline" =             {
+                points = "quhrFdrqWu]dKs@N[SIQtBqHR]R_@FiAKOa@AWE]e@kAeE@[OSg@oBu@}CQyLFuAFQIk@eEoB]@MPSn@sFGiMYm@m@g@Ty@ZmLWgIk@oCu@_CcA}B[sC@_BYk@I{By@cDq@kHDwQFiGi@mOmDaMiC}JcBcFoAiUuFcZeLeIsEmFqCoDoAm[qLqVgJk^_N{KeEyG_CoDw@qToDiJwBwKsDoBk@eJwB_HyAyD{AeF{CcJkGeGcDcIyFqE_DaFgDiCkAgOuEsDaBmFgDkZqSkH}FeBaAcIwDuFuDgH{FuV{OqQuLie@c[uf@m[cb@sXyS}MoMwHuJaEmDeAsJwByH}@cMe@aFB{Kr@yKt@qERmKa@cJgCuGsD{FwF{CgEkDmHcE_MeFcQwLca@mCiIiEeK_HaNmIaMwFeHoF}FeIqHu[aWqTeQgf@y_@ok@ud@_o@wg@un@ym@u]_`@{BcG_AmEqDi\\eFqc@{Ggm@{BmRs@_DqAgEyCqGgCuDuD}D_D_CwH{Dia@wRaZeNuMeHuPwKiTgNkJmGaImHwD}EaEgHiCeFyDiGaJaKaH}E}DwBoHoCga@cK_p@kPyGeBaN{DmLcEkQ_GyKcEuNcGyHaCaNuCqDk@kEg@gGqAge@eQmIiEqLkEuX}JkOmEkJoDyGaD_U{IcQmG{o@eVyk@cTaKmE_DcCaEqFmGoPwI{WyJyY}AgDoAcBsDiD_E}AqCc@sD?y]`GqNjCaJzAeDN{CS{EoAcB{@kFwDiPoMyDuCoAcA{DyCaE_C_E}A}EiAqAQiM{@_UoA_VmAuMuAoPsDuBg@ie@sKmOsDeFmBkC}AiC_CcEgGsCoH}Iue@kAgE{AqDm@iAiDmEiEmC_GyB_F}AkGsBiN_IwPaKqWkOiv@md@}YgQuc@qWqUmM{PaK{GuDgC}@yBWwA?{D`@mItAyQrCge@jH_E`@uEM_DgAcCaB{AmA}JiIobAoy@aKqIeE{CkAi@oA]kDYoDGkAGmM{@wZwAePiA_TuAoUuBiSoBw]}BuUwAuMiA_EEcLaAEASA}Qu@cb@_Cg[oBiSoA}NmCiGqB}BqBqRoS{BkDoAkDyGqTaCcEaGyFaFmEoNeMmU{Ry@wAEs@_@Sk@R[zAyBpBcQ~La@Mm@r@MjAj@n@oCbXsAtKyAlLKAO@_@b@Cd@sBrBkGhEgCdAiCx@s@??EAEEGGAKJ?H?@aFEaFWsBKgAImAEWCcCMIkB]oC[uDoAaKaAeH_AuLw@mK";
+            };
+            summary = "A-42";
+            warnings =             (
+            );
+            "waypoint_order" =             (
+            );
+        }
+    );
+    status = OK;
+}

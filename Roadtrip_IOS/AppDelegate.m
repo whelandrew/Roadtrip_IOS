@@ -13,6 +13,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [GMSServices provideAPIKey:@"AIzaSyCTelYl1t2ED9vUQ5Xa3198XVA4GlL-qb0"];
+    [SystemFunctions FindFilePath];
+    
     return YES;
 }
 							
